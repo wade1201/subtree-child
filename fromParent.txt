@@ -1,2 +1,3 @@
 hello subtree child
-HAH, child modified this file first time.
+HAH, child modified this file first time
+HAHAHA,i am child ,try to modify.
